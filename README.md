@@ -1,1 +1,1 @@
-Cardioverse a digital cardiologist at your home.
+ssCardioverse a digital cardiologist at your home.
